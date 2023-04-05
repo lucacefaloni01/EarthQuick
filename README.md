@@ -2,5 +2,5 @@
 Dashboard for displaying last month's global earthquakes, using data from usgs.gov
 
 
-Il link per l'utilizzo:
+The link to use:
 https://lucacef.shinyapps.io/EarthQuick/
